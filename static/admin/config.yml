@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: peterlaxalt/gatsby-starter-netlify-cms
   branch: master
 
 media_folder: static/img
